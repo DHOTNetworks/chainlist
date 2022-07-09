@@ -1325,6 +1325,12 @@
             "https://mainnet.sherpax.io/rpc"
         ]
     },
+    "191": {
+        "rpcs": [
+            "https://rpc.metra.eu.org",
+            "https://rpc.dhot.eu.org"
+        ]
+    },
     "7777":{
         "rpcs": [
             "https://testnet1.rotw.games",
